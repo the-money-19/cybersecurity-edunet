@@ -1,4 +1,5 @@
 🔒 Image Steganography Using OpenCV
+
 Overview
 This project shows how you can hide secret messages inside images using a simple Python script with OpenCV. It lets you securely encrypt a message by embedding it in an image and then decrypt it later with a password.
 
