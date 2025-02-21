@@ -31,3 +31,7 @@ How to Get Started
    When prompted, enter your secret message and a password. The script will create an image called encryptedImage.jpg with your hidden message.
 3. Decrypt the Message
   To read your secret message, run the script again and provide the correct password when asked.
+
+
+Developed by: Harshal S Ninawe
+
